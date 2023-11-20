@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.main-bg {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+
+.card {
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+}
+
+.card1 {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
